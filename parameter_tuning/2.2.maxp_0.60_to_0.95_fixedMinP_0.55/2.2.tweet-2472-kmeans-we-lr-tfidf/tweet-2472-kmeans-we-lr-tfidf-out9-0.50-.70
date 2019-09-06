@@ -1,0 +1,311 @@
+9
+50.0
+70.0
+/home/owner/PhD/clustering-k-means/tweet-we-kmeans-run9
+total labels from /home/owner/PhD/clustering-k-means/tweet-we-kmeans-run9 is 2472
+#listtuple_pred_true_text is 2472 #terms=5033
+Initial---------
+homogeneity_score-whole-data:   0.8570
+nmi_score-whole-data:   0.7984
+completeness=0.7437638485195275
+purity majority whole data=0.8353559870550162
+trainDataRatio=0.5736245954692557
+0,66.71462771238176
+homogeneity_score-whole-data:   0.8804
+nmi_score-whole-data:   0.8179
+completeness=0.7598977815677086
+purity majority whole data=0.8519417475728155
+trainDataRatio=0.5323624595469255
+1,57.822829935051324
+homogeneity_score-whole-data:   0.8839
+nmi_score-whole-data:   0.8212
+completeness=0.7629143112845334
+purity majority whole data=0.8551779935275081
+trainDataRatio=0.587378640776699
+2,64.95061605160214
+homogeneity_score-whole-data:   0.8874
+nmi_score-whole-data:   0.8244
+completeness=0.7659157841610708
+purity majority whole data=0.8563915857605178
+trainDataRatio=0.5861650485436893
+3,66.293609652761
+homogeneity_score-whole-data:   0.8883
+nmi_score-whole-data:   0.8257
+completeness=0.7675733326512292
+purity majority whole data=0.857200647249191
+trainDataRatio=0.46885113268608414
+4,50.8703351922569
+homogeneity_score-whole-data:   0.8871
+nmi_score-whole-data:   0.8248
+completeness=0.7669311637235501
+purity majority whole data=0.8555825242718447
+trainDataRatio=0.5012135922330098
+5,55.54814980932863
+homogeneity_score-whole-data:   0.8909
+nmi_score-whole-data:   0.8283
+completeness=0.7700277092976315
+purity majority whole data=0.857200647249191
+trainDataRatio=0.531957928802589
+6,58.44188700113447
+homogeneity_score-whole-data:   0.8922
+nmi_score-whole-data:   0.8296
+completeness=0.771375377577326
+purity majority whole data=0.8567961165048543
+trainDataRatio=0.5889967637540453
+7,65.46378043173279
+homogeneity_score-whole-data:   0.8939
+nmi_score-whole-data:   0.8314
+completeness=0.7732351583230597
+purity majority whole data=0.857200647249191
+trainDataRatio=0.4696601941747573
+8,50.673251078227935
+homogeneity_score-whole-data:   0.8948
+nmi_score-whole-data:   0.8330
+completeness=0.7755015909947582
+purity majority whole data=0.8580097087378641
+trainDataRatio=0.5586569579288025
+9,64.6786543368261
+homogeneity_score-whole-data:   0.8964
+nmi_score-whole-data:   0.8345
+completeness=0.7767922594906409
+purity majority whole data=0.86084142394822
+trainDataRatio=0.5849514563106796
+10,65.55589188794617
+homogeneity_score-whole-data:   0.8958
+nmi_score-whole-data:   0.8341
+completeness=0.7767101460366747
+purity majority whole data=0.8604368932038835
+trainDataRatio=0.49716828478964403
+11,56.53624865438361
+homogeneity_score-whole-data:   0.8969
+nmi_score-whole-data:   0.8357
+completeness=0.7787785855696793
+purity majority whole data=0.8624595469255664
+trainDataRatio=0.5550161812297735
+12,62.822274321214984
+homogeneity_score-whole-data:   0.8993
+nmi_score-whole-data:   0.8380
+completeness=0.780817389430097
+purity majority whole data=0.8640776699029126
+trainDataRatio=0.5813106796116505
+13,67.86575751361008
+homogeneity_score-whole-data:   0.8989
+nmi_score-whole-data:   0.8381
+completeness=0.7814391050733969
+purity majority whole data=0.8640776699029126
+trainDataRatio=0.5800970873786407
+14,65.69395644052267
+homogeneity_score-whole-data:   0.8971
+nmi_score-whole-data:   0.8368
+completeness=0.7805543748023027
+purity majority whole data=0.8632686084142395
+trainDataRatio=0.5792880258899676
+15,66.8455216866557
+homogeneity_score-whole-data:   0.8983
+nmi_score-whole-data:   0.8379
+completeness=0.7815112383861285
+purity majority whole data=0.8640776699029126
+trainDataRatio=0.46318770226537215
+16,53.389218896925485
+homogeneity_score-whole-data:   0.8992
+nmi_score-whole-data:   0.8394
+completeness=0.7836052745070339
+purity majority whole data=0.8661003236245954
+trainDataRatio=0.5768608414239482
+17,65.81272586546578
+homogeneity_score-whole-data:   0.9014
+nmi_score-whole-data:   0.8416
+completeness=0.7857096001625579
+purity majority whole data=0.8689320388349514
+trainDataRatio=0.5736245954692557
+18,66.35830598923326
+homogeneity_score-whole-data:   0.9020
+nmi_score-whole-data:   0.8419
+completeness=0.7858744312943065
+purity majority whole data=0.8689320388349514
+trainDataRatio=0.4923139158576052
+19,57.39952217997218
+homogeneity_score-whole-data:   0.9033
+nmi_score-whole-data:   0.8429
+completeness=0.786469410144505
+purity majority whole data=0.8697411003236246
+trainDataRatio=0.4923139158576052
+20,56.98266563437578
+homogeneity_score-whole-data:   0.9042
+nmi_score-whole-data:   0.8438
+completeness=0.7874447767825247
+purity majority whole data=0.8693365695792881
+trainDataRatio=0.46197411003236244
+21,51.657059165565904
+homogeneity_score-whole-data:   0.9017
+nmi_score-whole-data:   0.8416
+completeness=0.7854360099367295
+purity majority whole data=0.8685275080906149
+trainDataRatio=0.4312297734627832
+22,50.120420437851116
+homogeneity_score-whole-data:   0.8997
+nmi_score-whole-data:   0.8394
+completeness=0.7832068661416155
+purity majority whole data=0.8689320388349514
+trainDataRatio=0.5752427184466019
+23,68.17506869806246
+homogeneity_score-whole-data:   0.9034
+nmi_score-whole-data:   0.8431
+completeness=0.7867025666767343
+purity majority whole data=0.8709546925566343
+trainDataRatio=0.5473300970873787
+24,62.28130930486621
+homogeneity_score-whole-data:   0.9024
+nmi_score-whole-data:   0.8419
+completeness=0.7854904806738754
+purity majority whole data=0.8697411003236246
+trainDataRatio=0.46116504854368934
+25,53.881185580152774
+homogeneity_score-whole-data:   0.9025
+nmi_score-whole-data:   0.8419
+completeness=0.7854483640940593
+purity majority whole data=0.8705501618122977
+trainDataRatio=0.46076051779935273
+26,50.68457328694801
+homogeneity_score-whole-data:   0.8992
+nmi_score-whole-data:   0.8387
+completeness=0.7822560148989472
+purity majority whole data=0.8669093851132686
+trainDataRatio=0.45995145631067963
+27,53.31653405467227
+homogeneity_score-whole-data:   0.8977
+nmi_score-whole-data:   0.8372
+completeness=0.7807434319206418
+purity majority whole data=0.8673139158576052
+trainDataRatio=0.5493527508090615
+28,63.39896047930405
+homogeneity_score-whole-data:   0.8995
+nmi_score-whole-data:   0.8390
+completeness=0.7825693693345621
+purity majority whole data=0.8673139158576052
+trainDataRatio=0.4894822006472492
+29,54.87353666593678
+homogeneity_score-whole-data:   0.8999
+nmi_score-whole-data:   0.8393
+completeness=0.7827362707962022
+purity majority whole data=0.8685275080906149
+trainDataRatio=0.5760517799352751
+30,65.48593822549299
+homogeneity_score-whole-data:   0.8999
+nmi_score-whole-data:   0.8392
+completeness=0.7826539294132328
+purity majority whole data=0.8693365695792881
+trainDataRatio=0.5756472491909385
+31,66.6606298672235
+homogeneity_score-whole-data:   0.9014
+nmi_score-whole-data:   0.8407
+completeness=0.7840627572949144
+purity majority whole data=0.8697411003236246
+trainDataRatio=0.5182038834951457
+32,58.515281552808304
+homogeneity_score-whole-data:   0.9002
+nmi_score-whole-data:   0.8397
+completeness=0.7832285645912421
+purity majority whole data=0.8693365695792881
+trainDataRatio=0.598705501618123
+33,69.95036376876344
+homogeneity_score-whole-data:   0.8999
+nmi_score-whole-data:   0.8393
+completeness=0.7827480422792914
+purity majority whole data=0.8681229773462783
+trainDataRatio=0.4587378640776699
+34,53.6560424189991
+homogeneity_score-whole-data:   0.9045
+nmi_score-whole-data:   0.8437
+completeness=0.787046010328324
+purity majority whole data=0.875
+trainDataRatio=0.5461165048543689
+35,62.184259160950106
+homogeneity_score-whole-data:   0.9049
+nmi_score-whole-data:   0.8442
+completeness=0.7874717560734317
+purity majority whole data=0.875
+trainDataRatio=0.45995145631067963
+36,52.69430151850426
+homogeneity_score-whole-data:   0.9037
+nmi_score-whole-data:   0.8432
+completeness=0.7868408687931796
+purity majority whole data=0.8745954692556634
+trainDataRatio=0.5962783171521036
+37,68.91419899636908
+homogeneity_score-whole-data:   0.9059
+nmi_score-whole-data:   0.8453
+completeness=0.7886794641824856
+purity majority whole data=0.8754045307443366
+trainDataRatio=0.5161812297734628
+38,60.69007299261813
+homogeneity_score-whole-data:   0.9064
+nmi_score-whole-data:   0.8457
+completeness=0.7890934157734389
+purity majority whole data=0.8770226537216829
+trainDataRatio=0.459546925566343
+39,50.40919891083504
+homogeneity_score-whole-data:   0.9080
+nmi_score-whole-data:   0.8472
+completeness=0.7905223413440479
+purity majority whole data=0.8786407766990292
+trainDataRatio=0.5942556634304207
+40,68.56421887457651
+homogeneity_score-whole-data:   0.9082
+nmi_score-whole-data:   0.8475
+completeness=0.790784294371457
+purity majority whole data=0.8786407766990292
+trainDataRatio=0.45914239482200647
+41,52.271620088244845
+homogeneity_score-whole-data:   0.9075
+nmi_score-whole-data:   0.8466
+completeness=0.7897906820901727
+purity majority whole data=0.8790453074433657
+trainDataRatio=0.5444983818770227
+42,61.54596859415282
+homogeneity_score-whole-data:   0.9079
+nmi_score-whole-data:   0.8472
+completeness=0.7906147609722263
+purity majority whole data=0.8794498381877023
+trainDataRatio=0.45914239482200647
+43,53.53161396816919
+homogeneity_score-whole-data:   0.9076
+nmi_score-whole-data:   0.8468
+completeness=0.7900982728882672
+purity majority whole data=0.8794498381877023
+trainDataRatio=0.5449029126213593
+44,62.20298480432462
+homogeneity_score-whole-data:   0.9069
+nmi_score-whole-data:   0.8461
+completeness=0.7893873011462984
+purity majority whole data=0.877831715210356
+trainDataRatio=0.4890776699029126
+45,54.946757107148315
+homogeneity_score-whole-data:   0.9070
+nmi_score-whole-data:   0.8465
+completeness=0.7900584649298643
+purity majority whole data=0.877831715210356
+trainDataRatio=0.56957928802589
+46,66.59877669359554
+homogeneity_score-whole-data:   0.9080
+nmi_score-whole-data:   0.8473
+completeness=0.7906832656248859
+purity majority whole data=0.8786407766990292
+trainDataRatio=0.459546925566343
+47,52.033288206673646
+homogeneity_score-whole-data:   0.9082
+nmi_score-whole-data:   0.8476
+completeness=0.7909657425164485
+purity majority whole data=0.8786407766990292
+trainDataRatio=0.5173948220064725
+48,59.79682831783525
+homogeneity_score-whole-data:   0.9075
+nmi_score-whole-data:   0.8467
+completeness=0.7900527888036174
+purity majority whole data=0.877831715210356
+trainDataRatio=0.459546925566343
+49,50.430901062501725
+homogeneity_score-whole-data:   0.9063
+nmi_score-whole-data:   0.8456
+completeness=0.7888983732615138
+purity majority whole data=0.8770226537216829
